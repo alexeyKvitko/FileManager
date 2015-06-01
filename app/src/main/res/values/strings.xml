@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">File Manager</string>
+    <string name="error_read_sdcard">Cannot read files from external card. Application terminated</string>
+    <string name="empty_folder">Empty Folder</string>
+    <string name="dialog_title_error">Error</string>
+    <string name="dialog_title_file_info">File Info</string>
+    <string name="dialog_message_not_found">File Not Found</string>
+    <string name="dialog_message_error_sdcard">External SDCARD not mounted.</string>
+    <string name="dialog_message_error_date">Wrong date format. Must be: dd/mm/yyyy</string>
+    <string name="indexing_success">Indexing success</string>
+    <string name="indexing_fail">Indexing fail:</string>
+    <string name="btn_close">Close</string>
+    <string name="path">Path:</string>
+    <string name="file_name">File:</string>
+    <string name="file_size">Size:</string>
+    <string name="mod_date">Mod. Date:</string>
+    <string name="search_label">Search files:</string>
+    <string name="action_search_by_name">Search by File Name</string>
+    <string name="action_search_by_size">Search by File Size</string>
+    <string name="action_search_by_date">Search by File Date</string>
+
+</resources>
